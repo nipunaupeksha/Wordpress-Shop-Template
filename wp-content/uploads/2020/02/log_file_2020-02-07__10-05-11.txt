@@ -13,3 +13,31 @@ not defined!
 ------
 New AJAX call!
 
+
+---Importing widgets---
+Main Sidebar : 
+
+Search - No Title - Widget already exists
+Gallery - Latest Photograph - Imported
+photograph_tab_widgets - No Title - Site does not support widget
+
+Side Menu : 
+
+Gallery - Gallery - Imported
+
+Contact Page Sidebar : 
+
+Text - About Us - Imported
+Text - Our Address - Imported
+
+Iframe Code For Google Maps : 
+
+Custom HTML - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---tf-tfdi/after_import---
+
